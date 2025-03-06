@@ -27,13 +27,13 @@ export default function AboutPage() {
           <h2 className="text-2xl font-semibold text-center mb-6">Development Team</h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <DeveloperCard name="KIRUTHICK" role="Developer" bio="" />
+            <DeveloperCard name="NAME1" role="Developer" bio="" />
 
-            <DeveloperCard name="SAKTHI VEL" role="Developer" bio="" />
+            <DeveloperCard name="NAME2" role="Developer" bio="" />
 
-            <DeveloperCard name="SIVASAKTHI" role="Developer" bio="" />
+            <DeveloperCard name="NAME3" role="Developer" bio="" />
 
-            <DeveloperCard name="DHANANJEYAN" role="Developer" bio="" />
+            <DeveloperCard name="NAME4" role="Developer" bio="" />
           </div>
         </div>
       </div>
